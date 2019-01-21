@@ -4,7 +4,7 @@
 
 ### Link dos curso na plataforma udemy com um cupom de desconto
 
-- link curso 01 - [ https://www.udemy.com/course/ ]
+- link curso 01 - [ https://www.udemy.com/implementando-apis-com-apigee-nodejs-docker-heroku/?couponCode=5P3C_0P3NAPI_5WAGG3 ] com cupom de desconto
 
 ---
 
